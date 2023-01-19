@@ -1,0 +1,9 @@
+{
+	"name": "15thDFdemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c2e83aa-7da8-48e0-9a36-c201e4cc3393",
+		"tenantId": "55ff9b10-753c-4766-8b1a-365801bfe952"
+	}
+}
